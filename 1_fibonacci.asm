@@ -4,6 +4,7 @@ nl: .asciiz "\n"
 .text
 .globl main
 
+main:
 li $t0, 0 #cargamos 0 en t0
 li $t1, 1 #cargamos 1 en t1
 
